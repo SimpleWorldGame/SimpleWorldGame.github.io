@@ -1,1 +1,2 @@
-# SimpleWorldGame.github.io
+# SimpleWorld Game
+Play with different job types!
