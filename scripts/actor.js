@@ -9,17 +9,17 @@ function job(){
   setTimeout(addfive, 600000);
 }
 function addone(){
-  moneymade.innerHTML = "$" + moneyhour;
+  moneymade.innerHTML = "Money Made: $" + moneyhour;
 }
 function addtwo(){
-  moneymade.innerHTML = "$" + moneyhour + moneyhour;
+  moneymade.innerHTML = "Money Made: $" + moneyhour + moneyhour;
 }
 function addthree(){
-  moneymade.innerHTML = "$" + moneyhour + moneyhour + moneyhour;
+  moneymade.innerHTML = "Money Made: $" + moneyhour + moneyhour + moneyhour;
 }
 function addfour(){
-  moneymade.innerHTML = "$" + moneyhour + moneyhour + moneyhour + moneyhour;
+  moneymade.innerHTML = "Money Made: $" + moneyhour + moneyhour + moneyhour + moneyhour;
 }
 function addfive(){
-  moneymade.innerHTML = "$" + moneyhour + moneyhour + moneyhour + moneyhour + moneyhour;
+  moneymade.innerHTML = "Money Made: $" + moneyhour + moneyhour + moneyhour + moneyhour + moneyhour;
 }
